@@ -4,7 +4,7 @@ import package2.Customer;
 
 public class TheMall {
     
-    static int TotalPrice = 0;
+    public static int TotalPrice = 0;
     
     public static void main(String args[]) {
         Customer customer = new Customer();
